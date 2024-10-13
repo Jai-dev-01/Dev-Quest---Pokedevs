@@ -96,15 +96,18 @@ main {
 }
 
 .tipo-eletrico {
-    background-color: #fcc719;
+    background-image: url("../imagens/tipoeletrico.png");
+    background-position: cover;
 }
 
 .tipo-fogo {
-    background-color: #f15000d2;
+    background-image: url("../imagens/tipofogo.png");
+    background-position: cover;
 }
 
 .tipo-agua {
-    background-color: #015C98;
+    background-image: url("../imagens/tipoagua.png");
+    background-position: cover;
 }
 
 .tipo-grama {
@@ -116,7 +119,8 @@ main {
 }
 
 .tipo-fada {
-    background-color: #C29791;
+    background-image: url("../imagens/tipofada.png");
+    background-position: cover;
 }
 
 .listagem {
